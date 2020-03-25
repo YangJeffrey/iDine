@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7993F9272429577A0050A11B /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7993F9262429577A0050A11B /* ItemRow.swift */; };
 		79A14F8C2427C7B800DB026A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A14F8B2427C7B800DB026A /* AppDelegate.swift */; };
 		79A14F8E2427C7B800DB026A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A14F8D2427C7B800DB026A /* SceneDelegate.swift */; };
 		79A14F902427C7B800DB026A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A14F8F2427C7B800DB026A /* ContentView.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7993F9262429577A0050A11B /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		79A14F882427C7B800DB026A /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79A14F8B2427C7B800DB026A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79A14F8D2427C7B800DB026A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				79A14F8B2427C7B800DB026A /* AppDelegate.swift */,
 				79A14F8D2427C7B800DB026A /* SceneDelegate.swift */,
 				79A14F8F2427C7B800DB026A /* ContentView.swift */,
+				7993F9262429577A0050A11B /* ItemRow.swift */,
 				79A14FBD2427C8A700DB026A /* Helper.swift */,
 				79A14FBF2427C8E100DB026A /* Menu.swift */,
 				79A14FC02427C8E100DB026A /* Order.swift */,
@@ -283,6 +286,7 @@
 				79A14FC22427C8E100DB026A /* Order.swift in Sources */,
 				79A14F8C2427C7B800DB026A /* AppDelegate.swift in Sources */,
 				79A14F8E2427C7B800DB026A /* SceneDelegate.swift in Sources */,
+				7993F9272429577A0050A11B /* ItemRow.swift in Sources */,
 				79A14F902427C7B800DB026A /* ContentView.swift in Sources */,
 				79A14FBE2427C8A700DB026A /* Helper.swift in Sources */,
 				79A14FC12427C8E100DB026A /* Menu.swift in Sources */,
